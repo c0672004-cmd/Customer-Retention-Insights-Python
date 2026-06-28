@@ -20,3 +20,5 @@ To ensure accurate statistical reporting, a robust pre-processing pipeline was c
 2. **Payment Channel Friction**: Manual payment methods—specifically Electronic Checks—exhibit massive attrition rates. Transitioning these clients to automated clearing house (ACH) paperless billing or automatic credit card pipelines will systematically reduce billing failures.
 3. **Cohort Concentration Risk**: Unmarried profiles and accounts without dependents present elevated operational risk. Corporate acquisition spend should prioritize sticky, high-LTV family units while applying protective retention budgets to high-risk segments.
 
+## Youtube Video
+[See the Youtube Video Here](https://youtu.be/He__uQ4RYg4)
